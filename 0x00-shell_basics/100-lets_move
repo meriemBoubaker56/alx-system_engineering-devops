@@ -1,2 +1,2 @@
-#!/bin/bash                                                                                                                                                                 cmmv *[A-Z]* /tmp/u
-
+#!/bin/bash
+find . -type f -name '[[:upper:]]*' -exec mv -t ~/tmp/u {} +
