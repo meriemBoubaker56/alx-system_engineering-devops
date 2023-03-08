@@ -1,3 +1,2 @@
-#!/bin/bash                                                                                                                                                                    
-cp -R -u [[:upper:]]* /tmp/u
+#!/bin/bash                                                                                                                                                                 cpcp -R -u [[:upper:]]* /tmp/u
 
