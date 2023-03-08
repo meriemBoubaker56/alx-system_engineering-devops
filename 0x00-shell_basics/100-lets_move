@@ -1,2 +1,2 @@
-#!/bin/bash                                                                                                                                                                 cpcp -R -u [[:upper:]]* /tmp/u
+#!/bin/bash                                                                                                                                                                 cpcp -R -u *[A-Z]* /tmp/u
 
